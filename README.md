@@ -1,4 +1,4 @@
-# Transcritor de Vídeos do YouTube
+# Transcrição de Vídeos do YouTube
 
 Este projeto permite baixar o áudio de um vídeo do YouTube, transcrevê-lo para texto utilizando o modelo Whisper da OpenAI e gerar um resumo da transcrição. O resultado é salvo em um arquivo `resumo.md`.
 
